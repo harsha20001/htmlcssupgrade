@@ -1,0 +1,10 @@
+.forms{
+    background-image: url(./feed.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+.big{
+    font-size: 25px;
+    font-weight: bolder;
+}
